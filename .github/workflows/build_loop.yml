@@ -282,16 +282,12 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
-          future_carbs_4h \
-          
-          
+          future_carbs_4h \                 
           override_sens \
           now_line \
           lnl_icon \
-          watch_title \
-          
+          watch_title \          
           meal_days \
-
           profiles \
           basal_lock \
           live_activity \
